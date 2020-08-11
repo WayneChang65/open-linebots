@@ -23,6 +23,8 @@
 - [人臉辨識](https://github.com/isdaviddong/Linebot-Demo-FaceRecognition) - 上傳照片，辨識人臉。
 
 ## 其他-Others
+- [Imgur Bot](https://github.com/twtrubiks/line-bot-imgur-tutorial) - 圖片傳到Line，自動上傳imgur。
+
 
 ## 貢獻-Contribute  
 Contributions welcome! Please feel free to send PR and become a contributor.
