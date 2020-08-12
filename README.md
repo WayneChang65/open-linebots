@@ -2,6 +2,7 @@
 集合開放原始碼的Linebot專案
 <p align="center">
   <img src="https://raw.githubusercontent.com/WayneChang65/awesome-linebot/master/pics/1200x630bb.png" width="30%" height="30%">
+  <img src="https://raw.githubusercontent.com/WayneChang65/awesome-linebot/master/pics/robot-01.jpg" width="40%" height="40%">
 </p>
 
 ## 內容-Contents
@@ -29,3 +30,5 @@
 
 ## 貢獻-Contribute  
 Contributions welcome! Please feel free to send PR and become a contributor.
+- Line pic from [LINE](https://line.me/zh-hant/)  
+- Robot pic from [M.Gulin](https://www.mgulin.com/wordpress/2013/03/robots-gratis-att-ladda-ner/)
