@@ -20,6 +20,9 @@
 - [小P記帳](https://github.com/isdaviddong/Linebot-Demo-AccountBook) - 記帳工具。
 - [翻譯王](https://github.com/isdaviddong/Linebot-Demo-TranslatorKing) - 可翻譯十幾種語言。
 - [流浪動物需要你](https://github.com/kkdai/LineBotPetNeedMe) - 查看目前流浪動物收容所的動物資料。
+- [rumors-line-bot](https://github.com/cofacts/rumors-line-bot) - 確認是否為假消息或假訊息。
+
+
 
 ## 趣味-Fun
 - [人臉辨識](https://github.com/isdaviddong/Linebot-Demo-FaceRecognition) - 上傳照片，辨識人臉。
