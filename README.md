@@ -1,4 +1,4 @@
-# awesome-linebot
+# open-linebots
 集合開放原始碼的Linebot專案
 <p align="center">
   <img src="https://raw.githubusercontent.com/WayneChang65/awesome-linebot/master/pics/1200x630bb.png" width="30%" height="30%">
