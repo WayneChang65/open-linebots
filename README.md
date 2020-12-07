@@ -21,6 +21,7 @@
 - [翻譯王](https://github.com/isdaviddong/Linebot-Demo-TranslatorKing) - 可翻譯十幾種語言。
 - [流浪動物需要你](https://github.com/kkdai/LineBotPetNeedMe) - 查看目前流浪動物收容所的動物資料。
 - [rumors-line-bot](https://github.com/cofacts/rumors-line-bot) - 確認是否為假消息或假訊息。
+- [哈哈雷聊天機器人](https://github.com/class90431/line-bot-halley) - 查天氣、看ptt、咖啡優惠以及互動聊天。
 
 
 
