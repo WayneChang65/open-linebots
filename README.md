@@ -14,6 +14,7 @@
 
 ## 遊戲-Games
 - [TOSMM, 土司小妹ロボ](https://github.com/WayneChang65/tosmm) - 針對神魔之塔遊戲所提供群組樂趣與資訊。
+- [公主連結聊天機器人](https://github.com/hanshino/redive_linebot) - 針對公主連結遊戲所提供相關功能。
 
 ## 生活-Life
 - [画像検索ボットくん](https://github.com/ko31/LineBot) - 透過關鍵字，進行圖片檢索。
